@@ -1,0 +1,6 @@
+2024-05-01 10:00:00 INFO User admin logged in
+2024-05-01 10:05:23 ERROR Failed login attempt from 192.168.1.10
+2024-05-01 10:10:45 WARNING Disk space low on /dev/sda1
+2024-05-01 10:15:00 INFO Scheduled backup completed
+2024-05-01 10:20:12 ERROR Could not connect to database
+2024-05-01 10:25:30 INFO User guest logged out 
