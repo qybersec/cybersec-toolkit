@@ -1,6 +1,6 @@
 # Cybersecurity Toolkit
 
-A beginner-friendly Python toolkit for basic cybersecurity tasks. This project is designed to help you learn and practice cybersecurity concepts as you prepare for certifications like CompTIA Security+.
+A Python toolkit for basic cybersecurity tasks. This project is designed to help me learn and practice cybersecurity concepts.
 
 ## Features
 - **Log Analyzer**: Analyze log files, count lines, and search for keywords (e.g., 'error').
@@ -10,7 +10,7 @@ A beginner-friendly Python toolkit for basic cybersecurity tasks. This project i
 
 ### Requirements
 - Python 3.7+
-- No external dependencies required for basic tools
+- No external dependencies required for basic tools (at the moment)
 
 ### Usage
 
@@ -49,6 +49,3 @@ toolkit/
 - Unified CLI Launcher
 - GUI Frontend (long-term goal)
 
----
-
-*Happy learning and hacking!* 
